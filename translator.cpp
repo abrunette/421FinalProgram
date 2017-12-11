@@ -99,6 +99,7 @@ unordered_map <string, string> dict = {
                 {"gohan", "meal"},
                 {"sensei", "teacher"},
                 {"tesuto", "test"},
+		{"sekinin", "responsibility"},
 };
 
 //parser function prototypes
