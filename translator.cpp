@@ -91,7 +91,7 @@ unordered_map <string, string> dict = {
                 {"kore", "this"},
                 {"nai", "not"},
                 {"seito", "student"},
-                {"naki", "cry"},
+                {"nakI", "cry"},
                 {"yorokobI", "rejoice"},
                 {"toire", "toilet"},
                 {"kanashii", "sad"},
