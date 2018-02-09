@@ -18,11 +18,11 @@ Before the program begins the main functions, the user is asked if they would li
 
 Scanner Trace: As the scanner scans through each word, additional information is printed to the screen to indicate what the program is doing as it steps through words. The information displayed is the current word being scanned, what the word's token is, and when the scanner is searching through the dictionary to check word validity.
 
-Parser Trace:
+Parser Trace: The parser trace has the same function as the scanner trace, although it is called within parser functions. The information displayed is the step through of the BNF grammar as each new function is entered. It is also used in the token matching to print when a type has been matched.
 
-Display Matches:
+Display Matches: This is a secondary selection of parser trace, if parser trace is turned off the user will still be asked if they want matching to be displayed. If this is turned on, then the matched notification will be displayed when a correct type is found, as above.
 
-Error Correction:
+Error Correction: This allows the user to redefine the current word that is being scanned. If this is turned on, the user will be prompted when a syntaxerror1 is found (type does not match expected).
 
 Error Output: 
 
