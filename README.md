@@ -1,4 +1,4 @@
-# 421FinalProgram
+# CS421 Final Program
 
 This project required us to design and implement a scanner, parser, and translator for Japanese romaji into english.
 
